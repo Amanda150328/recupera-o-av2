@@ -9,6 +9,6 @@
 <body>
   <h1>Karate Goju-Ryu</h1>
   <p> Goju-ryu é um estilo de Karate desenvolvido por Chojun Miyagi, originário de Oquinawa, no Japão. O estilo conjuga técnicas duras e firmes com técnicas suaves e circulares, daí seu nome go, de duro, ju, de suave e ryu, de estilo. </p>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiuptv_f_xuf4ukDIkK_ggXL9OcD2RA68GIA&s" alt="O karate faz muito bem ao físico e ao emocional do nosso corpo! Podemos começar a treinar a partir dos 4 anos de idade na Academia de Karate Wentz Team, em CAscavel PR." width="400">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiuptv_f_xuf4ukDIkK_ggXL9OcD2RA68GIA&s" alt="O karate faz muito bem ao físico e ao emocional do nosso corpo! Podemos começar a treinar a partir dos 4 anos de idade na Academia de Karate Wentz Team, em Cascavel PR." width="400">
 </body>
 </html>
