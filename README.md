@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content= "width=devicec-width, initial-scale=1.0">
-  <title>Meu Projeto de Karate</title>
+  <title>Karate</title>
 </head>
 <body>
   <h1>Karate Goju-Ryu</h1>
