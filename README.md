@@ -9,6 +9,6 @@
 <body>
   <h1>Meu Tema de Matemática</h1>
   <p> Aqui vou explicar o conteúdo que escolhi de Karate Goju-Ryu. </p>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1robzyD57bXWPa9ykJGsORPZ2j3R3pSqmGA&s" alt="Desc>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiuptv_f_xuf4ukDIkK_ggXL9OcD2RA68GIA&s" alt="descrição da imagem" width="400">
 </body>
 </html>
